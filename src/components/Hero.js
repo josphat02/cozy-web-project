@@ -7,9 +7,9 @@ const Hero = () => {
       
       <div className="absolute inset-0 bg-black opacity-40"></div>
       <div className="container mx-auto text-center text-white relative z-10">
-        <h2 className="text-4xl md:text-6xl font-semibold py-16">Welcome to My Cozy Space</h2>
+        <h2 className="text-4xl md:text-6xl font-semibold py-16">St Mechanic-wild Web Space</h2>
         <p className="text-lg md:text-2xl mb-8">Your journey to a relaxing web experience starts here.</p>
-         {/* Medium-Sized Image */}
+         
          <div className="flex justify-center">
           <img
             src={imageUrl}
